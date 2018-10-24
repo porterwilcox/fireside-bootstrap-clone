@@ -1,0 +1,41 @@
+body {
+    overflow-x: hidden;
+}
+.big-caro-item {
+    height: 100vh;
+    width: 100vw;
+}
+.big-caro-item img {
+    z-index: -1;
+}
+.toolbar {
+    background-color: #343a40b0;
+}
+i {
+    color: white;
+}
+.white {
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+h4 {
+    width: fit-content;
+}
+.caro-content {
+    bottom: 30vh;
+    right: 0;
+    color: white;
+}
+.left {
+    left: 3vw;
+}
+.left-img-feature {
+    background-image: url("https://images.unsplash.com/photo-1533243216203-8c08406d4583?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2cfd5c17a23b3edd51a24560d63fb3af&auto=format&fit=crop&w=1051&q=80");
+    background-size: cover;
+    height: 60vh;
+}
+.right-img-feature {
+    background-image: url("https://images.unsplash.com/photo-1524007769096-2dad448565c9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b5431ced2e9626faaad414c397c53fee&auto=format&fit=crop&w=889&q=80");
+    background-size: cover;
+    height: 60vh;
+}
