@@ -25,9 +25,7 @@ h4 {
     bottom: 30vh;
     right: 0;
     color: white;
-}
-.left {
-    left: 3vw;
+    text-shadow: 0 0 5px black;
 }
 .left-img-feature {
     background-image: url("https://images.unsplash.com/photo-1533243216203-8c08406d4583?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2cfd5c17a23b3edd51a24560d63fb3af&auto=format&fit=crop&w=1051&q=80");
